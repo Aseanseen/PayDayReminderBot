@@ -9,10 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@telegraf/session": "^1.0.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "telegraf": "^4.0.0",
-    "telegraf-calendar-telegram": "^1.5.8"
+    "telegraf-better-stage": "^1.0.1",
+    "telegraf-calendar-telegram": "^1.5.8",
+    "telegraf-session-local": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "^7.17.0"
